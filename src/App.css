@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.backgroundImg {
+  background-image: url("./images/Forest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.zoom {
+  zoom: 85%;
+}
+
+
+.text-shadow {
+  text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkblue;
+}
