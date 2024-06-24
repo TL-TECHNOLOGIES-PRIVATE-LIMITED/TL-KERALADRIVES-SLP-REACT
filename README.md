@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Kerala Drives Tours and Travels offers the best tour packages, travel services, guided tours, and adventure activities across Southern India and beyond.
 ## Available Scripts
 
 In the project directory, you can run:
